@@ -1,4 +1,4 @@
-# Mac-Os-Guild-for-AMD
+# MacOs Sequoia 15 -Guild-for-AMD Desktop PC
 Hackintosh MAC OS for AMD Ryzen 7 3700X 8-Core Processor
 
 https://dortania.github.io/OpenCore-Install-Guide/installer-guide/windows-install.html#downloading-macos
