@@ -10,3 +10,6 @@ OCAT - https://github.com/ic005k/OCAuxiliaryTools.git
 download the 
 Hardware-Sniffer-main - to get the hardwere information
 OpCore-Simplify-main - To Create EFI file 
+
+https://github.com/lzhoang2801/Hardware-Sniffer.git
+https://github.com/lzhoang2801/OpCore-Simplify.git
